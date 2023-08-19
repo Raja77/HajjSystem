@@ -1,0 +1,9 @@
+In the Default page/Home Page we need to make some modifications:
+
+0. Menu Module should be customizable
+1. Banner Module 
+2. Whats New and Press Release Module
+3. Achivements/Circulars/Annual Reports/Downloads Tabs shouls have some modules
+4. Photo Gallery
+5. Video Gallery
+

@@ -106,6 +106,126 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Hajj Requirements.txt" />
+    <Content Include="HS\Haj_Committee_Act.aspx" />
+    <Content Include="HS\Haj_Committee_Rules.aspx" />
+    <Content Include="HS\Haj_Committee_ByLaws_2005.aspx" />
+    <Content Include="HS\JK_Haj_Committee_Rules.aspx" />
+    <Content Include="HS\Haj_Policy.aspx" />
+    <Content Include="HS\EPayments.aspx" />
+    <Content Include="HS\Guidelines.aspx" />
+    <Content Include="HS\Previous_Records.aspx" />
+    <Content Include="HS\About_Haj_Committee.aspx" />
+    <Content Include="HS\Functions.aspx" />
+    <Content Include="HS\Home.aspx" />
+    <Content Include="HS\History.aspx" />
+    <Content Include="HS\assets\css\base-responsive.css" />
+    <Content Include="HS\assets\css\base.css" />
+    <Content Include="HS\assets\css\change.css" />
+    <Content Include="HS\assets\css\elements.css" />
+    <Content Include="HS\assets\css\flexslider.css" />
+    <Content Include="HS\assets\css\font-awesome.min.css" />
+    <Content Include="HS\assets\css\font.css" />
+    <Content Include="HS\assets\css\grid.css" />
+    <Content Include="HS\assets\css\megamenu-old.css" />
+    <Content Include="HS\assets\css\megamenu.css" />
+    <Content Include="HS\assets\css\modules.css" />
+    <Content Include="HS\assets\css\print.css" />
+    <Content Include="HS\assets\css\printold.css" />
+    <Content Include="HS\assets\fonts\flexslider-icon.svg" />
+    <Content Include="HS\assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="HS\assets\images\after-bg.png" />
+    <Content Include="HS\assets\images\after-bottom-bg.png" />
+    <Content Include="HS\assets\images\blt.png" />
+    <Content Include="HS\assets\images\carousel-bg.png" />
+    <Content Include="HS\assets\images\carousel\apf-c.png" />
+    <Content Include="HS\assets\images\carousel\apf.png" />
+    <Content Include="HS\assets\images\carousel\data-gov-c.png" />
+    <Content Include="HS\assets\images\carousel\data-gov.png" />
+    <Content Include="HS\assets\images\carousel\digital-india-c.png" />
+    <Content Include="HS\assets\images\carousel\digital-india.png" />
+    <Content Include="HS\assets\images\carousel\e-gazette.png" />
+    <Content Include="HS\assets\images\carousel\eci.png" />
+    <Content Include="HS\assets\images\carousel\ganhri-c.png" />
+    <Content Include="HS\assets\images\carousel\ganhri.png" />
+    <Content Include="HS\assets\images\carousel\goidirectory.png" />
+    <Content Include="HS\assets\images\carousel\incredible-india-c.png" />
+    <Content Include="HS\assets\images\carousel\incredible-india.png" />
+    <Content Include="HS\assets\images\carousel\india-gov-c.png" />
+    <Content Include="HS\assets\images\carousel\india-gov.png" />
+    <Content Include="HS\assets\images\carousel\makeinindia-c.png" />
+    <Content Include="HS\assets\images\carousel\makeinindia.png" />
+    <Content Include="HS\assets\images\carousel\mygov-c.jpg" />
+    <Content Include="HS\assets\images\carousel\mygov.png" />
+    <Content Include="HS\assets\images\carousel\myvisit-logo.png" />
+    <Content Include="HS\assets\images\carousel\pg-portal.png" />
+    <Content Include="HS\assets\images\carousel\pmnrf-c.png" />
+    <Content Include="HS\assets\images\carousel\pmnrf.png" />
+    <Content Include="HS\assets\images\carousel\unhr-c.png" />
+    <Content Include="HS\assets\images\carousel\unhr.png" />
+    <Content Include="HS\assets\images\close.png" />
+    <Content Include="HS\assets\images\cmf-logo.png" />
+    <Content Include="HS\assets\images\Department-of-Atomic-Energy.png" />
+    <Content Include="HS\assets\images\emblem-dark.png" />
+    <Content Include="HS\assets\images\emblem-light.png" />
+    <Content Include="HS\assets\images\favicon\apple-touch-icon.png" />
+    <Content Include="HS\assets\images\favicon\favicon.png" />
+    <Content Include="HS\assets\images\flag.jpg" />
+    <Content Include="HS\assets\images\footer-bottom-bg.png" />
+    <Content Include="HS\assets\images\footer-top-bg.jpg" />
+    <Content Include="HS\assets\images\goi-search-bg.png" />
+    <Content Include="HS\assets\images\ico-accessibility-h.png" />
+    <Content Include="HS\assets\images\ico-accessibility-light.png" />
+    <Content Include="HS\assets\images\ico-accessibility-y.png" />
+    <Content Include="HS\assets\images\ico-accessibility.png" />
+    <Content Include="HS\assets\images\ico-bullete8.png" />
+    <Content Include="HS\assets\images\ico-facebook.png" />
+    <Content Include="HS\assets\images\ico-link-dark.png" />
+    <Content Include="HS\assets\images\ico-link-light.png" />
+    <Content Include="HS\assets\images\ico-link.jpg" />
+    <Content Include="HS\assets\images\ico-login-y.png" />
+    <Content Include="HS\assets\images\ico-login.png" />
+    <Content Include="HS\assets\images\ico-search.png" />
+    <Content Include="HS\assets\images\ico-site-search-h.png" />
+    <Content Include="HS\assets\images\ico-site-search-light.png" />
+    <Content Include="HS\assets\images\ico-site-search-y.png" />
+    <Content Include="HS\assets\images\ico-site-search.png" />
+    <Content Include="HS\assets\images\ico-sitemap-h.png" />
+    <Content Include="HS\assets\images\ico-sitemap-y.png" />
+    <Content Include="HS\assets\images\ico-sitemap.png" />
+    <Content Include="HS\assets\images\ico-skip-h.png" />
+    <Content Include="HS\assets\images\ico-skip-y.png" />
+    <Content Include="HS\assets\images\ico-skip.png" />
+    <Content Include="HS\assets\images\ico-social-h.png" />
+    <Content Include="HS\assets\images\ico-social-light.png" />
+    <Content Include="HS\assets\images\ico-social-y.png" />
+    <Content Include="HS\assets\images\ico-social.png" />
+    <Content Include="HS\assets\images\ico-twitter.png" />
+    <Content Include="HS\assets\images\ico-youtube.png" />
+    <Content Include="HS\assets\images\icon-home.png" />
+    <Content Include="HS\assets\images\jago-grahak-logo.png" />
+    <Content Include="HS\assets\images\logo-cmf.png" />
+    <Content Include="HS\assets\images\nhrc-logo.png" />
+    <Content Include="HS\assets\images\paragraph-img\img1.jpg" />
+    <Content Include="HS\assets\images\paragraph-img\img2.jpg" />
+    <Content Include="HS\assets\images\sprite1.png" />
+    <Content Include="HS\assets\images\swach-bharat-high-contrast.png" />
+    <Content Include="HS\assets\images\swach-bharat-y.png" />
+    <Content Include="HS\assets\images\swach-bharat.png" />
+    <Content Include="HS\assets\images\toggle-bar-light.png" />
+    <Content Include="HS\assets\images\toggle-bar.png" />
+    <Content Include="HS\assets\images\whitearrow.png" />
+    <Content Include="HS\assets\js\font-size.js" />
+    <Content Include="HS\assets\js\framework.js" />
+    <Content Include="HS\assets\js\html5shiv.js" />
+    <Content Include="HS\assets\js\jquery-2.1.1.min.js" />
+    <Content Include="HS\assets\js\jquery-accessibleMegaMenu.js" />
+    <Content Include="HS\assets\js\jquery.flexslider.js" />
+    <Content Include="HS\assets\js\megamenu-old.js" />
+    <Content Include="HS\assets\js\megamenu.js" />
+    <Content Include="HS\assets\js\respond.min.js" />
+    <Content Include="HS\assets\js\swithcer.js" />
+    <Content Include="HS\assets\js\two.js" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -124,7 +244,52 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="HS\assets\fonts\1YwB1sO8YE1Lyjf12WNiUA.woff2" />
+    <Content Include="HS\assets\fonts\9k-RPmcnxYEPm8CNFsH2gg.woff" />
+    <Content Include="HS\assets\fonts\BVtM30trf7q_jfqYeHfjtA.woff" />
+    <Content Include="HS\assets\fonts\cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff" />
+    <Content Include="HS\assets\fonts\cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2" />
+    <Content Include="HS\assets\fonts\DXI1ORHCpsQm3Vp6mXoaTegdm0LZdjqr5-oayXSOefg.woff2" />
+    <Content Include="HS\assets\fonts\DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff" />
+    <Content Include="HS\assets\fonts\EInbV5DfGHOiMmvb1Xr-hnhCUOGz7vYGh680lGh-uXM.woff" />
+    <Content Include="HS\assets\fonts\EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2" />
+    <Content Include="HS\assets\fonts\EsvMC5un3kjyUhB9ZEPPwg.woff2" />
+    <Content Include="HS\assets\fonts\flexslider-icon.eot" />
+    <Content Include="HS\assets\fonts\flexslider-icon.ttf" />
+    <Content Include="HS\assets\fonts\flexslider-icon.woff" />
+    <Content Include="HS\assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="HS\assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="HS\assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="HS\assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="HS\assets\fonts\FontAwesome.otf" />
+    <Content Include="HS\assets\fonts\H2DMvhDLycM56KNuAtbJYA.woff2" />
+    <Content Include="HS\assets\fonts\k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff" />
+    <Content Include="HS\assets\fonts\k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2" />
+    <Content Include="HS\assets\fonts\KT3KS9Aol4WfR6Vas8kNcg.woff" />
+    <Content Include="HS\assets\fonts\MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff" />
+    <Content Include="HS\assets\fonts\MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2" />
+    <Content Include="HS\assets\fonts\ODelI1aHBYDBqgeIAH2zlBM0YzuT7MdOe03otPbuUS0.woff" />
+    <Content Include="HS\assets\fonts\ODelI1aHBYDBqgeIAH2zlNV_2ngZ8dMf8fLgjYEouxg.woff2" />
+    <Content Include="HS\assets\fonts\tI4j516nok_GrVf4dhunkg.woff2" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGCOFnW3Jk0f09zW_Yln67Ac.woff2" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGEo0As1BFRXtCDhS66znb_k.woff2" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGFkQc6VGVFSmCnC_l7QZG60.woff" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGHiec-hVyr2k4iOzEQsW1iE.woff" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGHZhYM0_6AejPZE-OqA592o.woff2" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGJ6-ys_j0H4QL65VLqzI3wI.woff" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGNbE_oMaV8t2eFeISPpzbdE.woff" />
+    <Content Include="HS\assets\fonts\toadOcfmlt9b38dHJxOBGOode0-EuMkY--TSyExeINg.woff2" />
+    <Content Include="HS\assets\fonts\wkfQbvfT_02e2IWO3yYueQ.woff" />
+    <Content Include="Admin\AdminPanel.aspx" />
+    <Content Include="Admin\ModuleSiteOut.Master" />
+    <Content Include="Admin\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="home.html" />
+    <Content Include="index.html" />
+    <Content Include="inner.html" />
+    <Content Include="Admin\Login.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -154,12 +319,235 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+    <Content Include="HS\theme\css\bootstrap.min.css" />
+    <Content Include="HS\theme\css\ma5gallery.css" />
+    <Content Include="HS\theme\css\no-js.css" />
+    <Content Include="HS\theme\css\print.css" />
+    <Content Include="HS\theme\css\site-change.css" />
+    <Content Include="HS\theme\css\site-responsive-old.css" />
+    <Content Include="HS\theme\css\site-responsive.css" />
+    <Content Include="HS\theme\css\site.css" />
+    <Content Include="HS\theme\images\01.png" />
+    <Content Include="HS\theme\images\02.png" />
+    <Content Include="HS\theme\images\03.png" />
+    <Content Include="HS\theme\images\1-bg.jpg" />
+    <Content Include="HS\theme\images\2-bg.jpg" />
+    <Content Include="HS\theme\images\20141001ra200.png" />
+    <Content Include="HS\theme\images\apf-c.png" />
+    <Content Include="HS\theme\images\apf.png" />
+    <Content Include="HS\theme\images\arrow.png" />
+    <Content Include="HS\theme\images\banner-bg-1.jpg" />
+    <Content Include="HS\theme\images\banner-bg.jpg" />
+    <Content Include="HS\theme\images\banner\inner-banner.jpg" />
+    <Content Include="HS\theme\images\banner\inner-banner2.jpg" />
+    <Content Include="HS\theme\images\banner\slider-1.jpg" />
+    <Content Include="HS\theme\images\bg.jpg" />
+    <Content Include="HS\theme\images\blt-bottom.png" />
+    <Content Include="HS\theme\images\blt-doc.png" />
+    <Content Include="HS\theme\images\blt-green.png" />
+    <Content Include="HS\theme\images\blt-link-blue.png" />
+    <Content Include="HS\theme\images\blt-link.png" />
+    <Content Include="HS\theme\images\blt-order.png" />
+    <Content Include="HS\theme\images\blt_arrow.png" />
+    <Content Include="HS\theme\images\bluearw.png" />
+    <Content Include="HS\theme\images\breadcam-arrow.png" />
+    <Content Include="HS\theme\images\cmpfo-bg.jpg" />
+    <Content Include="HS\theme\images\coal-bg.jpg" />
+    <Content Include="HS\theme\images\complain.png" />
+    <Content Include="HS\theme\images\crousal\1.jpg" />
+    <Content Include="HS\theme\images\crousal\2.jpg" />
+    <Content Include="HS\theme\images\crousal\3.jpg" />
+    <Content Include="HS\theme\images\cvc-logo.png" />
+    <Content Include="HS\theme\images\data-gov-c.png" />
+    <Content Include="HS\theme\images\data-gov.png" />
+    <Content Include="HS\theme\images\digital-india-c.png" />
+    <Content Include="HS\theme\images\digital-india.png" />
+    <Content Include="HS\theme\images\ebook-heading.png" />
+    <Content Include="HS\theme\images\footer-bottom-bg.png" />
+    <Content Include="HS\theme\images\gallery-bg.jpg.png" />
+    <Content Include="HS\theme\images\ganhri-c.png" />
+    <Content Include="HS\theme\images\ganhri.png" />
+    <Content Include="HS\theme\images\homebtmbg.jpg" />
+    <Content Include="HS\theme\images\ico-bullete.png" />
+    <Content Include="HS\theme\images\ico-goi-search.png" />
+    <Content Include="HS\theme\images\ico-list-dbl-arrow-red.png" />
+    <Content Include="HS\theme\images\ico-new.png" />
+    <Content Include="HS\theme\images\ico-right-arrow - Copy.png" />
+    <Content Include="HS\theme\images\ico-right-arrow.png" />
+    <Content Include="HS\theme\images\ico-right-arrow1.png" />
+    <Content Include="HS\theme\images\icons\24x7-icon.png" />
+    <Content Include="HS\theme\images\icons\arow-white.png" />
+    <Content Include="HS\theme\images\icons\arow-yellow.png" />
+    <Content Include="HS\theme\images\icons\blackarrow.png" />
+    <Content Include="HS\theme\images\icons\conference.png" />
+    <Content Include="HS\theme\images\icons\e-book.png" />
+    <Content Include="HS\theme\images\icons\email.png" />
+    <Content Include="HS\theme\images\icons\feed-back-icon.png" />
+    <Content Include="HS\theme\images\icons\icon-1.png" />
+    <Content Include="HS\theme\images\icons\icon-2.png" />
+    <Content Include="HS\theme\images\icons\icon-3.png" />
+    <Content Include="HS\theme\images\icons\icon-4.png" />
+    <Content Include="HS\theme\images\icons\icon-5.png" />
+    <Content Include="HS\theme\images\icons\icon-6.png" />
+    <Content Include="HS\theme\images\icons\icon-7.png" />
+    <Content Include="HS\theme\images\icons\icon-8.png" />
+    <Content Include="HS\theme\images\icons\icon-9.png" />
+    <Content Include="HS\theme\images\icons\video-gallery.png" />
+    <Content Include="HS\theme\images\icons\video-icon.png" />
+    <Content Include="HS\theme\images\icons\yellowarrow.png" />
+    <Content Include="HS\theme\images\imageedit_34_2243985496.gif" />
+    <Content Include="HS\theme\images\incredible-india-c.png" />
+    <Content Include="HS\theme\images\incredible-india.png" />
+    <Content Include="HS\theme\images\india-gov-c.png" />
+    <Content Include="HS\theme\images\india-gov.png" />
+    <Content Include="HS\theme\images\justice-h-l-duttu.png" />
+    <Content Include="HS\theme\images\kv-chowdary-650_650x400_61433957629.png" />
+    <Content Include="HS\theme\images\leftarw.png" />
+    <Content Include="HS\theme\images\logo-graphics.png" />
+    <Content Include="HS\theme\images\make-in-india-header.png" />
+    <Content Include="HS\theme\images\makeinindia-c.png" />
+    <Content Include="HS\theme\images\makeinindia.png" />
+    <Content Include="HS\theme\images\menu-bullet.png" />
+    <Content Include="HS\theme\images\minister-bg.jpg" />
+    <Content Include="HS\theme\images\minister-bg1.jpg" />
+    <Content Include="HS\theme\images\minister1-old.jpg" />
+    <Content Include="HS\theme\images\minister1.jpg" />
+    <Content Include="HS\theme\images\minister1.png" />
+    <Content Include="HS\theme\images\minister2.jpg" />
+    <Content Include="HS\theme\images\minister2.png" />
+    <Content Include="HS\theme\images\minister3.png" />
+    <Content Include="HS\theme\images\Mr_TM_Bhasin_Big.png" />
+    <Content Include="HS\theme\images\mygov-c.jpg" />
+    <Content Include="HS\theme\images\mygov.png" />
+    <Content Include="HS\theme\images\nav-bg.jpg" />
+    <Content Include="HS\theme\images\nav-menu-hover-bg.jpg" />
+    <Content Include="HS\theme\images\new-old.png" />
+    <Content Include="HS\theme\images\new.png" />
+    <Content Include="HS\theme\images\notice-bg.png" />
+    <Content Include="HS\theme\images\otherico.png" />
+    <Content Include="HS\theme\images\pdficon.jpg" />
+    <Content Include="HS\theme\images\pmnrf-c.png" />
+    <Content Include="HS\theme\images\pmnrf.png" />
+    <Content Include="HS\theme\images\poster.jpg" />
+    <Content Include="HS\theme\images\pressh2.png" />
+    <Content Include="HS\theme\images\prime-minister.jpg" />
+    <Content Include="HS\theme\images\profile-bg.jpg" />
+    <Content Include="HS\theme\images\quick-bg.png" />
+    <Content Include="HS\theme\images\search.png" />
+    <Content Include="HS\theme\images\social-bg.jpg" />
+    <Content Include="HS\theme\images\swach-bharat-2.jpg" />
+    <Content Include="HS\theme\images\tab_bg.jpg" />
+    <Content Include="HS\theme\images\tenders-old.png" />
+    <Content Include="HS\theme\images\tenders.png" />
+    <Content Include="HS\theme\images\unhr-c.png" />
+    <Content Include="HS\theme\images\unhr.png" />
+    <Content Include="HS\theme\images\Untitled-5.png" />
+    <Content Include="HS\theme\images\video-img.jpg" />
+    <Content Include="HS\theme\images\whats-new.png" />
+    <Content Include="HS\theme\images\whitearw.png" />
+    <Content Include="HS\theme\images\ylwblt.jpg" />
+    <Content Include="HS\theme\images\ylwRblt.jpg" />
+    <Content Include="HS\theme\js\custom.js" />
+    <Content Include="HS\theme\js\easyResponsiveTabs.js" />
+    <Content Include="HS\theme\js\ma5gallery.js" />
+    <Content Include="HS\theme\js\theme.js" />
     <Content Include="ViewSwitcher.ascx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Bundle.config" />
     <Content Include="Site.Mobile.Master" />
+    <Content Include="HS\theme\css\desktop.ini" />
+    <Content Include="HS\theme\desktop.ini" />
+    <Content Include="HS\theme\images\desktop.ini" />
+    <Content Include="HS\theme\js\desktop.ini" />
+    <Content Include="HS\MainMaster.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HS\Haj_Committee_Act.aspx.cs">
+      <DependentUpon>Haj_Committee_Act.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Haj_Committee_Act.aspx.designer.cs">
+      <DependentUpon>Haj_Committee_Act.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Haj_Committee_Rules.aspx.cs">
+      <DependentUpon>Haj_Committee_Rules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Haj_Committee_Rules.aspx.designer.cs">
+      <DependentUpon>Haj_Committee_Rules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Haj_Committee_ByLaws_2005.aspx.cs">
+      <DependentUpon>Haj_Committee_ByLaws_2005.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Haj_Committee_ByLaws_2005.aspx.designer.cs">
+      <DependentUpon>Haj_Committee_ByLaws_2005.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\JK_Haj_Committee_Rules.aspx.cs">
+      <DependentUpon>JK_Haj_Committee_Rules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\JK_Haj_Committee_Rules.aspx.designer.cs">
+      <DependentUpon>JK_Haj_Committee_Rules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Haj_Policy.aspx.cs">
+      <DependentUpon>Haj_Policy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Haj_Policy.aspx.designer.cs">
+      <DependentUpon>Haj_Policy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\EPayments.aspx.cs">
+      <DependentUpon>EPayments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\EPayments.aspx.designer.cs">
+      <DependentUpon>EPayments.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Guidelines.aspx.cs">
+      <DependentUpon>Guidelines.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Guidelines.aspx.designer.cs">
+      <DependentUpon>Guidelines.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Previous_Records.aspx.cs">
+      <DependentUpon>Previous_Records.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Previous_Records.aspx.designer.cs">
+      <DependentUpon>Previous_Records.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\About_Haj_Committee.aspx.cs">
+      <DependentUpon>About_Haj_Committee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\About_Haj_Committee.aspx.designer.cs">
+      <DependentUpon>About_Haj_Committee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Functions.aspx.cs">
+      <DependentUpon>Functions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Functions.aspx.designer.cs">
+      <DependentUpon>Functions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\History.aspx.cs">
+      <DependentUpon>History.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\History.aspx.designer.cs">
+      <DependentUpon>History.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
@@ -186,7 +574,35 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Admin\AdminPanel.aspx.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminPanel.aspx.designer.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ModuleSiteOut.Master.cs">
+      <DependentUpon>ModuleSiteOut.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ModuleSiteOut.Master.designer.cs">
+      <DependentUpon>ModuleSiteOut.Master</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="HS\MainMaster.Master.cs">
+      <DependentUpon>MainMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\MainMaster.Master.designer.cs">
+      <DependentUpon>MainMaster.Master</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -196,12 +612,14 @@
     </Compile>
     <Compile Include="Site.Mobile.Master.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Site.Mobile.Master.designer.cs">
       <DependentUpon>Site.Mobile.Master</DependentUpon>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
