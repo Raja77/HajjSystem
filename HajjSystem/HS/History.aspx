@@ -26,7 +26,9 @@
             </div>
             <section id="page-head" class="wrapper headings-wrapper">
                 <div class="container common-container four_content">
-                    <h1>Main Heading</h1>
+                    <h1>Main Heading
+                        <img class="national_emblem" src="assets/images/Bismillah.png" alt="Bismillah" style="float:right;" >
+                    </h1>
                     <hr />
                 </div>
             </section>

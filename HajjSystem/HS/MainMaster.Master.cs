@@ -9,6 +9,7 @@ namespace HajjSystem
 {
     public partial class MainMaster : MasterPage
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
 

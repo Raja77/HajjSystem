@@ -7,14 +7,14 @@
      <section class="wrapper banner-wrapper">
          <div id="flexSlider" class="flexslider">
             <ul class="slides">
-               <li><img id="banner1" src="theme/images/banner/S2.jpg" alt="Banner Image 1" title="Banner 1"></li>
-               <li><img src="theme/images/banner/S1.jpg" alt="Banner Image 2" title="Banner 2"></li>
-               <li> <img src="theme/images/banner/S2.jpg" alt="Banner Image 3" title="Banner 3"></li>
-               <li> <img src="theme/images/banner/S1.jpg" alt="Banner Image 4" title="Banner 4"></li>
-               <li> <img src="theme/images/banner/S2.jpg" alt="Banner Image 5" title="Banner 5"></li>
-               <li> <img src="theme/images/banner/S1.jpg" alt="Banner Image 6" title="Banner 6"></li>
-               <li> <img src="theme/images/banner/S2.jpg" alt="Banner Image 7" title="Banner 7"></li>
-               <li> <img src="theme/images/banner/S1.jpg" alt="Banner Image 8" title="Banner 8"></li>
+               <li><img id="banner1" src="theme/images/Banner1.jpg" alt="Banner Image 1" title="Banner 1" style="height:450px;"></li>
+               <li><img src="theme/images/Banner2.jpg" alt="Banner Image 2" title="Banner 2" style="height:450px;"></li>
+               <li> <img src="theme/images/Banner3.jpg" alt="Banner Image 3" title="Banner 3" style="height:450px;"></li>
+               <li> <img src="theme/images/banner-bg-1.jpg" alt="Banner Image 4" title="Banner 4" style="height:450px;"></li>
+               <li> <img src="theme/images/banner-bg.jpg" alt="Banner Image 5" title="Banner 5" style="height:450px;"></li>
+               <li> <img src="theme/images/bg.jpg" alt="Banner Image 6" title="Banner 6" style="height:450px;"></li>
+               <li> <img src="theme/images/Banner1.jpg" alt="Banner Image 7" title="Banner 7" style="height:450px;"></li>
+               <li> <img src="theme/images/banner/S1.jpg" alt="Banner Image 8" title="Banner 8" style="height:500px;"></li>
             </ul>
          </div>
       </section>

@@ -27,7 +27,9 @@
             <!--#Page-Head-->
             <section id="page-head" class="wrapper headings-wrapper">
                 <div class="container common-container four_content">
-                    <h1>THE HAJJ HOUSE</h1>
+                    <h1>THE HAJJ HOUSE
+                        <img class="national_emblem" src="assets/images/Bismillah.png" alt="Bismillah" style="float:right;" >
+                    </h1>
                     <hr />
                 </div>
             </section>

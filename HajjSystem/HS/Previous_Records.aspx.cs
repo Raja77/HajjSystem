@@ -9,6 +9,7 @@ namespace HajjSystem
 {
     public partial class Previous_Records : Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
 

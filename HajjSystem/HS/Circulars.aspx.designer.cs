@@ -7,8 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HajjSystem {    
+namespace HajjSystem {
     
-    public partial class History {
+    
+    public partial class Circulars {
     }
 }
