@@ -7,9 +7,8 @@ using System.Web.UI.WebControls;
 
 namespace HajjSystem
 {
-    public partial class About_Haj_Committee : Page
+    public partial class Who_Is_Who : Page
     {
-
         protected void Page_Load(object sender, EventArgs e)
         {
 

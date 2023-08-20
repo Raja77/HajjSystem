@@ -7,8 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HajjSystem {
-    
+namespace HajjSystem {    
     
     public partial class Previous_Records {
     }

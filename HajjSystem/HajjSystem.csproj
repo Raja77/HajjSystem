@@ -107,9 +107,19 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Hajj Requirements.txt" />
+    <Content Include="HS\assets\images\Banner2.jpg" />
+    <Content Include="HS\assets\images\Banner3.jpg" />
+    <Content Include="HS\assets\images\Bismillah.png" />
+    <Content Include="HS\assets\images\top-logo.png" />
+    <Content Include="HS\Agencies.aspx" />
+    <Content Include="HS\Organization_Setup.aspx" />
+    <Content Include="HS\Who_Is_Who.aspx" />
+    <Content Include="HS\Tender.aspx" />
+    <Content Include="HS\Notification.aspx" />
     <Content Include="HS\Haj_Committee_Act.aspx" />
     <Content Include="HS\Haj_Committee_Rules.aspx" />
     <Content Include="HS\Haj_Committee_ByLaws_2005.aspx" />
+    <Content Include="HS\Circulars.aspx" />
     <Content Include="HS\JK_Haj_Committee_Rules.aspx" />
     <Content Include="HS\Haj_Policy.aspx" />
     <Content Include="HS\EPayments.aspx" />
@@ -287,6 +297,9 @@
     </Content>
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="home.html" />
+    <Content Include="HS\theme\images\Banner1.jpg" />
+    <Content Include="HS\theme\images\Banner2.jpg" />
+    <Content Include="HS\theme\images\Banner3.jpg" />
     <Content Include="index.html" />
     <Content Include="inner.html" />
     <Content Include="Admin\Login.aspx" />
@@ -464,6 +477,41 @@
     <Content Include="HS\MainMaster.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HS\Agencies.aspx.cs">
+      <DependentUpon>Agencies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Agencies.aspx.designer.cs">
+      <DependentUpon>Agencies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Organization_Setup.aspx.cs">
+      <DependentUpon>Organization_Setup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Organization_Setup.aspx.designer.cs">
+      <DependentUpon>Organization_Setup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Who_Is_Who.aspx.cs">
+      <DependentUpon>Who_Is_Who.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Who_Is_Who.aspx.designer.cs">
+      <DependentUpon>Who_Is_Who.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Tender.aspx.cs">
+      <DependentUpon>Tender.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Tender.aspx.designer.cs">
+      <DependentUpon>Tender.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Notification.aspx.cs">
+      <DependentUpon>Notification.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Notification.aspx.designer.cs">
+      <DependentUpon>Notification.aspx</DependentUpon>
+    </Compile>
     <Compile Include="HS\Haj_Committee_Act.aspx.cs">
       <DependentUpon>Haj_Committee_Act.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -484,6 +532,13 @@
     </Compile>
     <Compile Include="HS\Haj_Committee_ByLaws_2005.aspx.designer.cs">
       <DependentUpon>Haj_Committee_ByLaws_2005.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Circulars.aspx.cs">
+      <DependentUpon>Circulars.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Circulars.aspx.designer.cs">
+      <DependentUpon>Circulars.aspx</DependentUpon>
     </Compile>
     <Compile Include="HS\JK_Haj_Committee_Rules.aspx.cs">
       <DependentUpon>JK_Haj_Committee_Rules.aspx</DependentUpon>

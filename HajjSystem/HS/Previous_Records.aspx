@@ -27,7 +27,9 @@
             <!--#Page-Head-->
             <section id="page-head" class="wrapper headings-wrapper">
                 <div class="container common-container four_content">
-                    <h1>Previous Records</h1>
+                    <h1>Previous Records
+                           <img class="national_emblem" src="assets/images/Bismillah.png" alt="Bismillah" style="float:right;" >
+                    </h1>
                     <hr />
                 </div>
             </section>
