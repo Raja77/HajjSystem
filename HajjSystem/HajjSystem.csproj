@@ -110,8 +110,25 @@
     <Content Include="HS\assets\images\Banner2.jpg" />
     <Content Include="HS\assets\images\Banner3.jpg" />
     <Content Include="HS\assets\images\Bismillah.png" />
+    <Content Include="HS\assets\images\JKBank_PayInSlip.JPG" />
     <Content Include="HS\assets\images\top-logo.png" />
     <Content Include="HS\Agencies.aspx" />
+    <Content Include="HS\Cancelation_Form.aspx" />
+    <Content Include="HS\PaySlip.aspx" />
+    <Content Include="HS\Bill.aspx" />
+    <Content Include="HS\Residential_Block_Details.aspx" />
+    <Content Include="HS\Feedback.aspx" />
+    <Content Include="HS\Master_Trainers.aspx" />
+    <Content Include="HS\Field_Trainers.aspx" />
+    <Content Include="HS\Khudams.aspx" />
+    <Content Include="HS\Medical_Cert.aspx" />
+    <Content Include="HS\Solemn_Decl.aspx" />
+    <Content Include="HS\Disclosure_RTI.aspx" />
+    <Content Include="HS\Online_RTI.aspx" />
+    <Content Include="HS\RTI_Format.aspx" />
+    <Content Include="HS\Scholars_Consultation.aspx" />
+    <Content Include="HS\Haj_Group_Organizors.aspx" />
+    <Content Include="HS\Order.aspx" />
     <Content Include="HS\Organization_Setup.aspx" />
     <Content Include="HS\Who_Is_Who.aspx" />
     <Content Include="HS\Tender.aspx" />
@@ -236,7 +253,7 @@
     <Content Include="HS\assets\js\respond.min.js" />
     <Content Include="HS\assets\js\swithcer.js" />
     <Content Include="HS\assets\js\two.js" />
-    <Content Include="Contact.aspx" />
+    <Content Include="HS\Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -484,6 +501,118 @@
     <Compile Include="HS\Agencies.aspx.designer.cs">
       <DependentUpon>Agencies.aspx</DependentUpon>
     </Compile>
+    <Compile Include="HS\Cancelation_Form.aspx.cs">
+      <DependentUpon>Cancelation_Form.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Cancelation_Form.aspx.designer.cs">
+      <DependentUpon>Cancelation_Form.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\PaySlip.aspx.cs">
+      <DependentUpon>PaySlip.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\PaySlip.aspx.designer.cs">
+      <DependentUpon>PaySlip.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Bill.aspx.cs">
+      <DependentUpon>Bill.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Bill.aspx.designer.cs">
+      <DependentUpon>Bill.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Residential_Block_Details.aspx.cs">
+      <DependentUpon>Residential_Block_Details.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Residential_Block_Details.aspx.designer.cs">
+      <DependentUpon>Residential_Block_Details.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Feedback.aspx.cs">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Feedback.aspx.designer.cs">
+      <DependentUpon>Feedback.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Master_Trainers.aspx.cs">
+      <DependentUpon>Master_Trainers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Master_Trainers.aspx.designer.cs">
+      <DependentUpon>Master_Trainers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Field_Trainers.aspx.cs">
+      <DependentUpon>Field_Trainers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Field_Trainers.aspx.designer.cs">
+      <DependentUpon>Field_Trainers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Khudams.aspx.cs">
+      <DependentUpon>Khudams.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Khudams.aspx.designer.cs">
+      <DependentUpon>Khudams.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Medical_Cert.aspx.cs">
+      <DependentUpon>Medical_Cert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Medical_Cert.aspx.designer.cs">
+      <DependentUpon>Medical_Cert.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Solemn_Decl.aspx.cs">
+      <DependentUpon>Solemn_Decl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Solemn_Decl.aspx.designer.cs">
+      <DependentUpon>Solemn_Decl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Disclosure_RTI.aspx.cs">
+      <DependentUpon>Disclosure_RTI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Disclosure_RTI.aspx.designer.cs">
+      <DependentUpon>Disclosure_RTI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Online_RTI.aspx.cs">
+      <DependentUpon>Online_RTI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Online_RTI.aspx.designer.cs">
+      <DependentUpon>Online_RTI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\RTI_Format.aspx.cs">
+      <DependentUpon>RTI_Format.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\RTI_Format.aspx.designer.cs">
+      <DependentUpon>RTI_Format.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Scholars_Consultation.aspx.cs">
+      <DependentUpon>Scholars_Consultation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Scholars_Consultation.aspx.designer.cs">
+      <DependentUpon>Scholars_Consultation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Haj_Group_Organizors.aspx.cs">
+      <DependentUpon>Haj_Group_Organizors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Haj_Group_Organizors.aspx.designer.cs">
+      <DependentUpon>Haj_Group_Organizors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HS\Order.aspx.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HS\Order.aspx.designer.cs">
+      <DependentUpon>Order.aspx</DependentUpon>
+    </Compile>
     <Compile Include="HS\Organization_Setup.aspx.cs">
       <DependentUpon>Organization_Setup.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -612,11 +741,11 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Contact.aspx.cs">
+    <Compile Include="HS\Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Contact.aspx.designer.cs">
+    <Compile Include="HS\Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
