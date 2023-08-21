@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace HajjSystem
 {
-    public partial class MainMaster : MasterPage
+    public partial class Cancelation_Form : Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
