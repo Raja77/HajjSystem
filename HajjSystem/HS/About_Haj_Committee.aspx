@@ -6,7 +6,8 @@
         <%--Small banner for the page at the heading before breadcrumb--%>
         <div id="flexSlider" class="flexslider">
             <div class="inner-banner">
-                <img src="theme/images/banner/inner-banner.jpg" alt="Inner Banner of Consumer Affairs" title="banner"></div>
+                <img src="theme/images/banner/inner-banner.jpg" alt="Inner Banner of Consumer Affairs" title="banner">
+            </div>
         </div>
         <%--End of Small banner for the page at the heading before breadcrumb--%>
     </section>
@@ -27,8 +28,8 @@
             <!--#Page-Head-->
             <section id="page-head" class="wrapper headings-wrapper">
                 <div class="container common-container four_content">
-                    <h1>THE HAJJ HOUSE
-                        <img class="national_emblem" src="assets/images/Bismillah.png" alt="Bismillah" style="float:right;" >
+                    <h1>ABOUT HAJ COMMITTEE
+                        <img class="national_emblem" src="assets/images/Bismillah.png" alt="Bismillah" style="float: right;">
                     </h1>
                     <hr />
                 </div>
@@ -38,33 +39,198 @@
             <!--#Page-Content-->
             <section id="paragraph" class="wrapper paragraph-wrapper">
                 <div class="container common-container four_content">
-                    <p>
-                        The Haj House, spread over an area of 50 Kanals of land situated at Bemina, Srinagar has been constructed for convenience of Haj Pilgrims of the State 
-                        on their journey to Harmain Shariefain. A state-of-art complex comprising of Office Block, Reception Lounge and Residential Block, the Haj House has 
-                        facilities for Remote Check-in, Pre-Immigration and Pre-Customs Check besides facility for exchange of Foreign Currency during departure phase. 
-                        It has an Ahram wearing room and a big prayer hall (Masjid). There is a separate residential block which can accommodate about “200” pilgrims at a time.
-                    </p>
-             <%--       <p>Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. Description of the main heading goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-                    <hr />
-                    <div class="align-rt">
-                        <img src="assets/images/paragraph-img/img1.jpg" alt="">
-                        <h3>Sub-heading 1</h3>
-                        <p>Description of the sub-heading 1 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. </p>
-                        <p>Description of the sub-heading 1 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-                        <a href="#" class="more">View More</a>
-                    </div>
-                    <hr />
+
                     <div class=" align-rt">
-                        <img src="assets/images/paragraph-img/img2.jpg" alt="">
-                        <h3>Sub-heading 2</h3>
-                        <p>Description of the sub-heading 2 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-                        <p>Description of the sub-heading 2 goes here. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.</p>
-                        <a href="#" class="more">View More</a>
+                        <h3>Chairman</h3>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2" style="vertical-align: top;">Sr. No.</th>
+                                    <th rowspan="2" style="vertical-align: top;">Name</th>
+                                    <th rowspan="2" style="vertical-align: top;">Designation</th>
+                                    <th colspan="2" style="text-align: center;">Period</th>
+                                </tr>
+                                <tr>
+                                    <th>From</th>
+                                    <th>To</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Abdul Gaffar Shahbaz, Rtd. IAS</td>
+                                    <td>Chairman, JKSHC</td>
+                                    <td>2007</td>
+                                    <td>2010</td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Omar Abdullah</td>
+                                    <td>Chief Minister (Chairman, JKSHC)</td>
+                                    <td>2010</td>
+                                    <td>2013</td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Omar Abdullah</td>
+                                    <td>Chief Minister (Chairman, JKSHC)</td>
+                                    <td>2013</td>
+                                    <td>2015</td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Mufti Mohammad Sayeed</td>
+                                    <td>Chief Minister (Chairman, JKSHC)</td>
+                                    <td>2015</td>
+                                    <td>2016</td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Mehbooba Mufti</td>
+                                    <td>Chief Minister (Chairman, JKSHC)</td>
+                                    <td>2016</td>
+                                    <td>2018</td>
+                                </tr>
+                                <tr>
+                                    <td>6.</td>
+                                    <td>Safeena Baig</td>
+                                    <td>DDC Chairperson (Chairperson, JKHC)</td>
+                                    <td colspan="2">2022  onwards</td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
-                    <hr />--%>
+                    <hr />
+
+                     <div class=" align-rt">
+                        <h3>Vice Chairman</h3>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2" style="vertical-align: top;">Sr. No.</th>
+                                    <th rowspan="2" style="vertical-align: top;">Name</th>
+                                    <th rowspan="2" style="vertical-align: top;">Designation</th>
+                                    <th colspan="2" style="text-align: center;">Period</th>
+                                </tr>
+                                <tr>
+                                    <th>From</th>
+                                    <th>To</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Ajaz Ahmad Khan</td>
+                                    <td>Minister Haj & Auqaf (Vice Chairman)</td>
+                                    <td>2010</td>
+                                    <td>2013</td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Peerzada Mohammad Sayeed</td>
+                                    <td>Minister Haj & Auqaf (Vice Chairman)</td>
+                                    <td>2013</td>
+                                    <td>2015</td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Abdul Rehman Veeri </td>
+                                    <td>Minister Haj & Auqaf (Vice Chairman)</td>
+                                    <td>2015</td>
+                                    <td>2016</td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Farooq Ahmad Andrabi</td>
+                                    <td>Minister Haj & Auqaf (Vice Chairman)</td>
+                                    <td>2016</td>
+                                    <td>2017</td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Choudhary Zulfikar Ali</td>
+                                    <td>Minister Haj & Auqaf (Vice Chairman)</td>
+                                    <td>2017</td>
+                                    <td>2018</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr />
+
+                     <div class=" align-rt">
+                        <h3>Present Committee / Members </h3>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th rowspan="2" style="vertical-align: top;">Sr. No.</th>
+                                    <th rowspan="2" style="vertical-align: top;">Name</th>
+                                    <th rowspan="2" style="vertical-align: top;">Designation</th>
+                                    <th colspan="2" style="text-align: center;">Period</th>
+                                </tr>
+                                <tr>
+                                    <th>From</th>
+                                    <th>To</th>
+                                </tr>
+                            </thead>
+                            <tbody>		
+                                <tr>
+                                    <td>1.</td>
+                                    <td>Ms. Safeena Baig</td>
+                                    <td>(Chairperson, UT J&K Haj Committee)</td>
+                                    <td>3 years term from 20/07/2022</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>2.</td>
+                                    <td>Justice Retd. Hasnain Masoodi</td>
+                                    <td>Member of Parliament</td>
+                                    <td>3 years term from 20/07/2022</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>3.</td>
+                                    <td>Mr. Mohd Rafiq Chasti</td>
+                                    <td></td>
+                                    <td>3 years term from 20/07/2022</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>4.</td>
+                                    <td>Molvi Mohd Ashraf</td>
+                                    <td></td>
+                                    <td>3 years term from 20/07/2022</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>5.</td>
+                                    <td>Mr. Talib Hussain Choudhary</td>
+                                    <td>Ex. MP</td>
+                                    <td>3 years term from 20/07/2022</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td>6.</td>
+                                    <td>Mr. Syed Mohd Rafiq</td>
+                                    <td></td>
+                                   <td>3 years term from 20/07/2022</td>
+                                    <td></td>
+                                </tr>
+                                     <tr>
+                                    <td>7.</td>
+                                    <td>Dr. Shujaat Ahmad Qureshi</td>
+                                    <td>Ex-Officio Member</td>
+                                   <td colspan="2">2022 onwards</td>
+                                  
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr />
+
                 </div>
             </section>
             <!--/#Page-Content-->
-            </div>
-        </section>
+        </div>
+    </section>
 </asp:Content>

@@ -110,6 +110,14 @@
     <Content Include="HS\assets\images\Banner2.jpg" />
     <Content Include="HS\assets\images\Banner3.jpg" />
     <Content Include="HS\assets\images\Bismillah.png" />
+    <Content Include="HS\assets\images\HajBanner1.jpg" />
+    <Content Include="HS\assets\images\HajBanner2.jpg" />
+    <Content Include="HS\assets\images\HajBanner3.jpg" />
+    <Content Include="HS\assets\images\HajBanner4.jpg" />
+    <Content Include="HS\assets\images\HajBanner5.jpg" />
+    <Content Include="HS\assets\images\HajBanner6.jpg" />
+    <Content Include="HS\assets\images\HajBanner7.jpg" />
+    <Content Include="HS\assets\images\HajBanner8.jpg" />
     <Content Include="HS\assets\images\JKBank_PayInSlip.JPG" />
     <Content Include="HS\assets\images\top-logo.png" />
     <Content Include="HS\Agencies.aspx" />

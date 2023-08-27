@@ -27,6 +27,7 @@
     <link href="theme/css/site.css" rel="stylesheet" media="all">
     <link href="theme/css/site-responsive.css" rel="stylesheet" media="all">
     <link href="theme/css/ma5gallery.css" rel="stylesheet" type="text/css">
+      <link href="../Content/bootstrap-theme.css" rel="stylesheet" />
 
     <!-- Theme styles for this template -->
 
@@ -55,12 +56,11 @@
                 </noscript>
                 <div class="wrapper common-wrapper">
                     <div class="container common-container four_content top-header">
-                        <div class="common-left clearfix">
+                        <div class="common-left clearfix" style="display: none;">
                             <ul>
-                                <li class="gov-india"><span class="responsive_go_hindi" lang="hi"><a target="_blank" href="https://india.gov.in/hi" title="भारत सरकार ( बाहरी वेबसाइट जो एक नई विंडो में खुलती है)" role="link">भारत सरकार</a></span><span class="li_eng responsive_go_eng"><a target="_blank" href="https://india.gov.in/" title="Government of india,External Link that opens in a new window" role="link">Government of india</a></span></li>
                                 <li class="ministry">
-                                    <a href="#" target="_blank" alt="Ministry Name" title="मंत्रालय / विभाग नाम"><span class="responsive_minis_hi" lang="hi">मंत्रालय / विभाग नाम</span></a>
-                                    <a href="#" target="_blank" alt="Ministry Name" title="Ministry / Department Name"><span class="li_eng responsive_minis_eng">Ministry / Department Name</span></a>
+                                    <a href="#" target="_blank" alt="Jammu and Kashmir" title="Jammu and Kashmir"><span class="responsive_minis_hi" lang="hi">Jammu and Kashmir </span></a>
+                                    <a href="#" target="_blank" alt="Haj Committee" title="Haj Committee"><span class="li_eng responsive_minis_eng">Haj Committee</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -147,26 +147,30 @@
         <!--Top-Header Section end-->
         <section class="wrapper header-wrapper">
             <div class="container common-container four_content header-container">
-                <abbr class="logo" style="width: 80% !important;">
-                    <img class="national_emblem" src="assets/images/top-logo.png" alt="Hajj Logo" style="background-color: green; height: 100px !important;">
+                <abbr class="logo">
+                    <img class="national_emblem" src="assets/images/top-logo.png" alt="Hajj Logo" style="background-color: green; min-height: 85px; max-height: 85px; min-width: 150px;">
                     <span class="department-title" style="padding-left: 10px; padding-top: 10px;">
                         <em><a href="Home.aspx" title="Home" rel="home" class="header__logo" id="logo"><span>J&K Haj Committee</span></a></em>
-                        <em style="font-size: 12px;"><span>(Statutory body constituted under Haj Committee Act, 2002)</span></em>
-                        <em style="font-size: 14px;"><span>Revenue Department (J&K Govt)</span></em>
+                        <em style="font-size: x-small"><span>(Statutory body constituted under Haj Committee Act, 2002)</span></em>
+                        <em style="font-size: smaller"><span>Revenue Department (J&K Govt)</span></em>
                     </span>
                 </abbr>
-
                 <div class="header-right clearfix">
                     <div class="right-content clearfix">
-                        <div class="float-element">
+                        <div class="float-element" style="font-size:small">
                             <em>
-                                &nbsp;
+                                <i class="fa fa-phone-square"></i>&nbsp;0194-2495367
                             </em>
-                           <em>
-                               <i class="fa fa-phone-square"></i> 0194-2495367
-                           </em>
                             <em>
-                                <i class="fa fa-phone"></i> 0194-2495365
+                                <i class="fa fa-phone"></i>&nbsp;0194-2495365
+                            </em>
+                            <em>
+                                <i class="fa fa-envelope"></i>&nbsp;jkstatehaj@gmail.com
+                            </em>
+                            <em style="font-size: x-small">
+                                <i class="fa fa-map-marker"></i>&nbsp;Bait-ul-Hujaj (Haj House), Bemina
+                                <br />
+                                Srinagar, Jammu & Kashmir, India - 190017
                             </em>
                         </div>
                     </div>
@@ -299,37 +303,6 @@
 
     <!--/.banner-wrapper-->
     <section class="wrapper carousel-wrapper">
-
-        <table>
-            <tr>
-                <td>&nbsp;
-                </td>
-                <td>
-                    <h1 class="logo" style="width: 80% !important;">
-                        <img class="national_emblem" src="assets/images/top-logo.png" alt="Hajj Logo" style="background-color: black; height:100px !important;"></h1>
-                </td>
-                <td>&nbsp;
-                </td>
-                <td>
-                    <h5>
-                        <em>
-                            &nbsp;
-                        </em>
-                        <em>
-                            <i class="fa fa-map-marker"></i>Bait-ul-Hujaj (Haj House), Bemina Srinagar, Jammu & Kashmir, India - 190017
-                        </em>
-                        <em>
-                            <i class="fa fa-phone"></i>+91 194 249 5365
-                        </em>
-                        <em>
-                            <i class="fa fa-envelope"></i>jkstatehaj@gmail.com
-                        </em>
-                    </h5>
-                </td>
-            </tr>
-        </table>
-
-
         <h2 style="display: none;">Carousel</h2>
         <div class="container common-container four_content carousel-container" style="display: none;">
             <div id="flexCarousel" class="flexslider carousel">
@@ -398,6 +371,8 @@
     <script src="assets/js/megamenu.js"></script>
     <script src="theme/js/easyResponsiveTabs.js"></script>
     <script src="theme/js/custom.js"></script>
+    
+
     <!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 
     <script>
