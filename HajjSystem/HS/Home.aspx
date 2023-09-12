@@ -187,225 +187,55 @@
                     <div class="page-tab-res clearfix">
                         <div id="parentHorizontalTab">
                             <ul class="resp-tabs-list hor_1">
-                                <li><a href="#" id="tab-list-1">Achievements</a></li>
-                                <li><a href="#">Circulars</a></li>
-                                <li><a href="#">Annual Reports</a></li>
+                                <li><a href="#" id="tab-list-1">Annual Reports</a></li>                               
                                 <li><a href="#">Downloads</a></li>
                             </ul>
                             <div class="resp-tabs-container hor_1">
 
                                 <div class="clearfix" id="hor_1_tab_item-0">
-                                    <div class="col-3">
+                                      <div class="col-3">
                                         <ul>
                                             <li>
-                                                <a href="#" title="A pdf file">Achievements 1 <i class="fa fa-file-pdf-o"></i>(16.02Kb)</a>
+                                                <a href="../Documents/Pdf_Documents/Annual Report (Home Page).pdf" title="Haj Policy <%= DateTime.Now.Year%>" target="_blank"> Annual Report <%= DateTime.Now.Year%> <i class="fa fa-file-pdf-o"></i></a>
                                             </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3">
+                                       <ul>
                                             <li>
-                                                <a href="#" title="A pdf file">Achievements 2 <i class="fa fa-file-pdf-o"></i>(44.09KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 3 <i class="fa fa-file-pdf-o"></i>(18.06KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 4 <i class="fa fa-file-pdf-o"></i>(54.8 KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 5 <i class="fa fa-file-pdf-o"></i>(37.01KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 6 <i class="fa fa-file-pdf-o"></i>(23.12KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 7 <i class="fa fa-file-pdf-o"></i>(42.2KB)</a>
+                                                <a href="../Documents/Pdf_Documents/Department E-book (Home Page).pdf" title="Department E-book" target="_blank"> Department E-book <i class="fa fa-file-pdf-o"></i></a>
                                             </li>
                                         </ul>
                                     </div>
                                     <div class="col-3">
                                         <ul>
                                             <li>
-                                                <a href="#" title="A pdf file">Achievements 8 <i class="fa fa-file-pdf-o"></i>(50.03KB)</a>
+                                                <a href="../Documents/Pdf_Documents/Haj_policy_2023 (Hajj).pdf" title="Haj Policy <%= DateTime.Now.Year%>" target="_blank"> Haj Policy <%= DateTime.Now.Year%> <i class="fa fa-file-pdf-o"></i></a>
                                             </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3">
+                                       <ul>
                                             <li>
-                                                <a href="#" title="A pdf file">Achievements 9 <i class="fa fa-file-pdf-o"></i>(22.07Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 10 <i class="fa fa-file-pdf-o"></i>(45.03KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 11 <i class="fa fa-file-pdf-o"></i>(36.08KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 12 <i class="fa fa-file-pdf-o"></i>(19.08Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 13 <i class="fa fa-file-pdf-o"></i>(28.05KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Achievements 14 <i class="fa fa-file-pdf-o"></i>(25.03KB)</a>
+                                                <a href="../Documents/Pdf_Documents/Haj_guidelines_23 (Hajj).pdf" title="Haj Guidelines" target="_blank"> Haj Guidelines <i class="fa fa-file-pdf-o"></i></a>
                                             </li>
                                         </ul>
                                     </div>
                                     <div class="view-footer-tab"><a href="#" title="Click here to know more"><span>Read more </span><i class="fa fa-angle-double-right"></i></a></div>
                                 </div>
-
-                                <div class="clearfix" id="hor_1_tab_item-1">
-                                    <div class="col-3">
-                                        <ul>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 1 <i class="fa fa-file-pdf-o"></i>(16.02Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 2 <i class="fa fa-file-pdf-o"></i>(41.04Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 3 <i class="fa fa-file-pdf-o"></i>(86.22Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 4 <i class="fa fa-file-pdf-o"></i>(13.1Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 5 <i class="fa fa-file-pdf-o"></i>(43.1Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 6 <i class="fa fa-file-pdf-o"></i>(55.1Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 7 <i class="fa fa-file-pdf-o"></i>(55.1Kb)</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-3">
-                                        <ul>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 8 <i class="fa fa-file-pdf-o"></i>(16.02Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 9 <i class="fa fa-file-pdf-o"></i>(41.04Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 10 <i class="fa fa-file-pdf-o"></i>(86.22Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 11 <i class="fa fa-file-pdf-o"></i>(13.1Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 12 <i class="fa fa-file-pdf-o"></i>(43.1Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 13 <i class="fa fa-file-pdf-o"></i>(55.1Kb)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Circular 14 <i class="fa fa-file-pdf-o"></i>(55.1Kb)</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="view-footer-tab"><a href="#" title="Click here to know more"><span>Read more </span><i class="fa fa-angle-double-right"></i></a></div>
-                                </div>
-
-                                <div class="clearfix" id="hor_1_tab_item-2">
-                                    <div class="col-3">
-                                        <ul>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 1 <i class="fa fa-file-pdf-o"></i>(23.48KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 2 <i class="fa fa-file-pdf-o"></i>(36.12KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 3 <i class="fa fa-file-pdf-o"></i>(19.02KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 4 <i class="fa fa-file-pdf-o"></i>(20.98KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 5 <i class="fa fa-file-pdf-o"></i>(32.92KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 6 <i class="fa fa-file-pdf-o"></i>(40.06KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 7 <i class="fa fa-file-pdf-o"></i>(22.07KB)</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-3">
-                                        <ul>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 8 <i class="fa fa-file-pdf-o"></i>(23.48KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 9 <i class="fa fa-file-pdf-o"></i>(36.12KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 10 <i class="fa fa-file-pdf-o"></i>(19.02KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 11 <i class="fa fa-file-pdf-o"></i>(20.98KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 12 <i class="fa fa-file-pdf-o"></i>(32.92KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 13 <i class="fa fa-file-pdf-o"></i>(40.06KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Annual Report 14 <i class="fa fa-file-pdf-o"></i>(22.07KB)</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="view-footer-tab"><a href="#" title="Click here to know more"><span>Read more </span><i class="fa fa-angle-double-right"></i></a></div>
-                                </div>
-
                                 <div class="clearfix" id="hor_1_tab_item-3">
                                     <div class="col-3">
-                                        <ul>
+                                     <%--   <ul>
                                             <li>
                                                 <a href="#" title="A pdf file">Download 1 <i class="fa fa-file-pdf-o"></i>(23.48KB)</a>
                                             </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 2 <i class="fa fa-file-pdf-o"></i>(36.12KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 3 <i class="fa fa-file-pdf-o"></i>(19.02KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 4 <i class="fa fa-file-pdf-o"></i>(20.98KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 5 <i class="fa fa-file-pdf-o"></i>(32.92KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 6 <i class="fa fa-file-pdf-o"></i>(40.06KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 7 <i class="fa fa-file-pdf-o"></i>(22.07KB)</a>
-                                            </li>
-                                        </ul>
+                                        </ul>--%>
                                     </div>
                                     <div class="col-3">
-                                        <ul>
+                                       <%-- <ul>
                                             <li>
-                                                <a href="#" title="A pdf file">Download 8 <i class="fa fa-file-pdf-o"></i>(23.48KB)</a>
                                             </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 9 <i class="fa fa-file-pdf-o"></i>(36.12KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 10 <i class="fa fa-file-pdf-o"></i>(19.02KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 11 <i class="fa fa-file-pdf-o"></i>(20.98KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 12 <i class="fa fa-file-pdf-o"></i>(32.92KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 13 <i class="fa fa-file-pdf-o"></i>(40.06KB)</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" title="A pdf file">Download 14 <i class="fa fa-file-pdf-o"></i>(22.07KB)</a>
-                                            </li>
-                                        </ul>
+                                        </ul>--%>
                                     </div>
                                     <div class="view-footer-tab"><a href="#" title="Click here to know more"><span>Read more </span><i class="fa fa-angle-double-right"></i></a></div>
 
